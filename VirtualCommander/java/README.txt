@@ -1,1 +1,1 @@
-Standalone java runtime
+Please refer to http://java.com/licensereadme
