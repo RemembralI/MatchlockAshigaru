@@ -20,4 +20,14 @@ Include: dynamixel AX-12A program, Bluetooth Commander app and PS3 controller US
 ![Alpha2Function](https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/61.jpg)
 
 *Cosine Rule!
-!(https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/Cosine_Rule.gif)
+![CosineRule](https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/Cosine_Rule.gif)
+
+From these formula, if we know 3 sides of a triangle, we can find out any angles inside it. Don’t doubt it, it just works! :-)
+So now we have Alpha2,
+![Alpha2](https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/71.jpg)
+
+Alpha1
+![Alpha1](https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/81.jpg)
+
+#References:
+<http://blog.oscarliang.net/robot-forum-archive/>
