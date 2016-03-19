@@ -29,5 +29,8 @@ So now we have Alpha2,
 Alpha1
 ![Alpha1](https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/81.jpg)
 
+A little spreedsheet to speed things up
+![IKspreadsheet](https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/Inverse%20Kinetics%20Chart.PNG)
+
 #References:
 <http://blog.oscarliang.net/robot-forum-archive/>
