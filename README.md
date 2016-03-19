@@ -20,4 +20,4 @@ Include: dynamixel AX-12A program, Bluetooth Commander app and PS3 controller US
 ![Alpha2Function](https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/61.jpg)
 
 *Cosine Rule!
-(https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/Cosine_Rule.gif)
+!(https://github.com/RemembralI/MatchlockAshigaru/blob/master/Matchlock/Cosine_Rule.gif)
